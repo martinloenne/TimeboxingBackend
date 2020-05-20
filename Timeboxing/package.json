@@ -1,0 +1,31 @@
+{
+  "name": "martin",
+  "version": "1.0.0",
+  "description": "Timeboxing",
+  "main": "app",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Martin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-mongo-sanitize": "^2.0.0",
+    "express-rate-limit": "^5.1.1",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.4.0",
+    "helmet": "^3.22.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.5",
+    "slugify": "^1.4.0",
+    "xss-clean": "^0.1.1"
+  }
+}
