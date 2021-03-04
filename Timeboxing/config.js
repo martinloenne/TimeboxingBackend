@@ -9,10 +9,10 @@ const config = {
   FROM_NAME:'',
  },
  DB: {
-   URI: 'mongodb+srv://admin:admin@devserver-8jnix.mongodb.net/test?retryWrites=true&w=majority'
+   URI: ''
  },
  JWT: {
-  jwtSecret: '1337abc',
+  jwtSecret: '',
   jwtExpire: '30d',
   jwtCookieExpire: '30',
  }
