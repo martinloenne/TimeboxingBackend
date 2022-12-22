@@ -23,7 +23,7 @@
     "express-validator": "^6.4.0",
     "helmet": "^3.22.0",
     "hpp": "^0.2.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.5",
     "slugify": "^1.4.0",
     "xss-clean": "^0.1.1"
